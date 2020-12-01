@@ -6,7 +6,7 @@ modalbutton.addEventListener('click', openModal);
 closeIcon.addEventListener('click', closeModal);
 
 function openModal() {
- modal.style.display ='block';
+ modal.style.display ='flex';
  }
 
 
