@@ -28,7 +28,7 @@ This project is about using a modal to wish family and friends a merry Christmas
 * https://twitter.com/hub_mic
 * https://www.linkedin.com/company/michub/
 
-# Live Demo (https://raw.githack.com/Esther94/modal-assignment/main/index.html)
+# Live Demo (https://raw.githack.com/Esther94/christmas-wishes/main/index.html)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions.
