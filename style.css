@@ -1,7 +1,7 @@
-:root {
+ :root {
   --modal-duration: 1s;
   --modal-color:#ff0000;
-}
+} 
   
 .bg-image{
   background-image: url(images/christmas.jpg);
@@ -104,13 +104,13 @@ body {
   cursor: pointer;
 }
 
-@keyframes modalopen {
+/* @keyframes modalopen {
   from {
     opacity: 0;
   }
   to {
     opacity: 1;
   }
-}
+} */
 
 
