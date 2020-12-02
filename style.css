@@ -1,5 +1,4 @@
  :root {
-  --modal-duration: 1s;
   --modal-color:#ff0000;
 } 
   
@@ -46,7 +45,6 @@ body {
   z-index: 1;
   left: 0;
   top: 0;
-  display: flex;
   justify-content: center;
   align-content: center;
   height: 100%;
